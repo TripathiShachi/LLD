@@ -21,6 +21,8 @@ public class MySingleton {
     }
 
 
+//To log activities like errors, payments, user actions, etc., across the entire system — you only need one logger, not a new one for every request.
+
 
 
 
